@@ -1,4 +1,4 @@
-# A Little Walk Game
+# A Forest
 
 Welcome! In this game, you will face choices that lead you down different paths. Will you fight a wolf, uncover hidden treasures, or help villagers in need? Only you can decide! The story is yours to shape.
 
@@ -17,18 +17,6 @@ Welcome! In this game, you will face choices that lead you down different paths.
 - Dynamic choices that affect the story
 - Multiple endings depending on your decisions
 - Fun and engaging narrative
-
----
-
-### About Me:
-
-- **Columbia University Sophomore** | **BS in Computer Science and Visual Arts**
-- Skilled in Python, JavaScript, Swift, and Full-Stack Development
-- Passionate about Open-Source Projects and Community Building
-- Creator of fun, interactive web-based games
-- Obsessed with sustainability and creative problem-solving
-
-Feel free to check out my other projects on my [GitHub profile!](https://github.com/melanielaporte) 
 
 ---
 
